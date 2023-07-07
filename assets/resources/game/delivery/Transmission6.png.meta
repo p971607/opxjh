@@ -1,0 +1,70 @@
+{
+  "ver": "1.0.25",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e9b945b5-f30c-4f70-9aca-0f2b5761f065",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "Transmission6": {
+      "ver": "1.0.4",
+      "uuid": "d271738b-3cb8-408d-ba61-80e446ce84b0",
+      "rawTextureUuid": "e9b945b5-f30c-4f70-9aca-0f2b5761f065",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2001,
+      "height": 537,
+      "rawWidth": 2001,
+      "rawHeight": 537,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {},
+      "importer": "*",
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "e9b945b5-f30c-4f70-9aca-0f2b5761f065@6c48a",
+      "displayName": "Transmission6",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e9b945b5-f30c-4f70-9aca-0f2b5761f065",
+        "visible": true
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "e9b945b5-f30c-4f70-9aca-0f2b5761f065@6c48a",
+    "fixAlphaTransparencyArtifacts": false
+  }
+}

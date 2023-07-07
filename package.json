@@ -1,0 +1,13 @@
+{
+  "_sourceId": "9863f48f-eb18-49fa-8644-4334bd927ee3",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "name": "oops-ecs-map-basic",
+  "uuid": "fa3bbbb8-bc7c-4d70-8206-eca5d1235bd4",
+  "version": "3.6.2",
+  "dependencies": {
+    "crypto-es": "^1.2.7"
+  },
+  "_storeId": "f7fdb02f24a725a7c74d4fc1443cf7c7"
+}

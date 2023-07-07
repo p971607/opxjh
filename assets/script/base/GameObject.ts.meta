@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "75cc0797-e428-47ae-bb0c-48b2b53b8f5f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/tscript/base/GameObject.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

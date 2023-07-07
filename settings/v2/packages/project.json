@@ -1,0 +1,24 @@
+{
+  "__version__": "1.0.4",
+  "script": {
+    "useDefineForClassFields": false,
+    "allowDeclareFields": false
+  },
+  "layer": [
+    {
+      "name": "Map",
+      "value": 1
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  }
+}

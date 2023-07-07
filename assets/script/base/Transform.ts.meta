@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ac61e40e-ef4f-4e85-b3e3-e11fdfc8e9f3",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/script/tscript/base/Transform.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}
